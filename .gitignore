@@ -1,0 +1,13 @@
+# Laravel
+/src/vendor
+/src/node_modules
+/src/storage/*.key
+/src/storage/logs/*
+/src/.env
+/src/.env.testing
+
+# OS
+.DS_Store
+
+# Docker (pokud nechceš build cache atd.)
+docker/mysql/data
