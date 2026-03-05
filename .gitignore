@@ -4,7 +4,7 @@
 /src/storage/*.key
 /src/storage/logs/*
 /src/.env
-/src/.env.testing
+#/src/.env.testing
 
 # OS
 .DS_Store

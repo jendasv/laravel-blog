@@ -12,3 +12,4 @@ Simple Laravel blog project used for learning.
 ## Run tests
 
 - php artisan test
+
